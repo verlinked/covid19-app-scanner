@@ -3,7 +3,7 @@
 This is a smart COVID-19 app scanner device which checks for a nearby
 smartphone having the Corona-Warn-App installed.
 
-![The 'Green Tower' by verlinked](green_tower_prototype.jpg)
+![The 'Green Tower' by verlinked](media/green_tower_prototype.jpg)
 
 ## Hardware
 
@@ -18,4 +18,10 @@ The sources are formatted for the Arduino IDE in `green_tower_esp32`.
 The case was printed with an "Ender 3" 3D printer. As construction software
 the open source tool FreeCAD was used. The corresponding files are in `CAD`.
 
-![The 'Green Tower' 3D design](green_tower_construction.jpg)
+![The 'Green Tower' 3D design](media/green_tower_construction.jpg)
+
+## In Action
+
+This shows the scanning in a simplified version.
+
+![The 'Green Tower' scan in action](media/green_tower_scan.gif)
