@@ -10,7 +10,8 @@ installed on their smartphones. This could be useful in various scenarios.
 
 For example, a party location where only people get access having the app on
 their phones. Or giving people a free drink when they have the app
-active and running.
+active and running. Or implement a counter to detect more than one smartphone
+at a time.
 
 ## How it works
 
@@ -31,7 +32,7 @@ Corona-Warn-App installed.
 The first example of a COVID-19 App Scanner device is the "Green Tower" made
 by [verlinked](https://www.verlinked.com).
 
-![The 'Green Tower' by verlinked](site/greentower/images/greentower-makingof-19.jpg)
+![The 'Green Tower' by verlinked](site/greentower/images/greentower-makingof-18.jpg)
 
 ## How to build one
 
@@ -39,8 +40,8 @@ We do not have ready to use kits (yet) to make it easy for everyone to build
 a smart scanning device. You need knowledge about hardware, embedded software,
 3D design and 3D printing to create your own device.
 
-But for all the hackers out there it should be not to hard to create your own
-one from the examples in this repository.
+But for all the hackers out there it should not be hard to create one from the
+examples in this repository.
 
 ### Hardware
 

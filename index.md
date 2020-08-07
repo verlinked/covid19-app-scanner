@@ -1,5 +1,5 @@
 ---
-title: The Covid19 App Scanner Project
+title: The COVID-19 App Scanner Project
 ---
 
 # Hello World
