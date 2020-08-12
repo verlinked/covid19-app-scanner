@@ -18,7 +18,7 @@ The first example of a COVID-19 App Scanner device is the
 [Green Tower](examples/green_tower) made by
 [verlinked](https://www.verlinked.com).
 
-![The 'Green Tower' by verlinked](site/green_tower/images/greentower-makingof-18.jpg)
+![The 'Green Tower' by verlinked](examples/green_tower/media/greentower-makingof-18.jpg)
 
 # The Project
 
