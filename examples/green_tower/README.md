@@ -20,10 +20,12 @@ the open source tool FreeCAD was used. The corresponding files are in `CAD`.
 
 ![The 'Green Tower' 3D design](media/green_tower_construction.jpg)
 
-[Making of the 'Green Tower'](makingof).
-
 ## In Action
 
 This shows the scanning in a simplified version.
 
 ![The 'Green Tower' scan in action](media/green_tower_scan.gif)
+
+## Making Of
+
+Some pictures of the [making of the 'Green Tower'](makingof).
