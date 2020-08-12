@@ -4,24 +4,24 @@ title: C19AS - Making of: Green Tower Project
 
 ## Making of: The 'Green Tower'
 
-On this page, we are showing the complete process of making the device that contains the COVID-19 App Scanner - called the 'Green Tower'
+On this page, we are showing the complete process of making the 'Green Tower' COVID-19 App Scanner device as an example.
 
 ---
 
-![3D Printer on duty](../media/greentower-makingof-01.jpg){:height="70%" width="70%"} | Printing the shell for the device. The 3D printer is printing the bottom part of the 'Green Tower'.  
+![3D Printer on duty](../media/greentower-makingof-01.jpg){:width="60%"} | Printing the shell for the device. The 3D printer is printing the bottom part of the 'Green Tower'.  
 
 ---
 
-Put threaded inserts into the openings. This allows the screws to be loosened and tightened as often as required. | ![Insert threaded inserts](../media/greentower-makingof-02.jpg){:height"60%" width="60%"}
+Put threaded inserts into the openings. This allows the screws to be loosened and tightened as often as required. | ![Insert threaded inserts](../media/greentower-makingof-02.jpg){:width="60%"}
 
 ---
 
-![The ESP32](../media/greentower-makingof-03.jpg){:height="60%" width="60%"}|This is the ESP32. The Covid-19 App Scanner is installed.
+![The ESP32](../media/greentower-makingof-03.jpg){:width="60%"}|This is the ESP32. The Covid-19 App Scanner is installed.
 
 
 ---
 
-Screw the ESP32 into the case. The screws fit perfectly into the printed openings. |![Install the ESP32](../media/greentower-makingof-04.jpg){:height="60%" width="60%"}
+Screw the ESP32 into the case. The screws fit perfectly into the printed openings. |![Install the ESP32](../media/greentower-makingof-04.jpg){:width="60%"}
 
 ---
 
@@ -29,40 +29,40 @@ Screw the ESP32 into the case. The screws fit perfectly into the printed opening
 
 ---
 
-That's all for the bottom part of the 'Green Tower'. Next prepare the LED-Strip for the top part of the case. |![Bottom done](../media/greentower-makingof-06.jpg){:height="60%" width="60%"}
+That's all for the bottom part of the 'Green Tower'. Next prepare the LED-Strip for the top part of the case. |![Bottom done](../media/greentower-makingof-06.jpg){:width="60%"}
 
 ---
 
-![Solder a cable to the LEDs](../media/greentower-makingof-07.jpg){:height="60%" width="60%"}|Solder a short cable to the LED-strip.
+![Solder a cable to the LEDs](../media/greentower-makingof-07.jpg){:width="60%"}|Solder a short cable to the LED-strip.
 
 ---
 
-This is the top of the 'Green Tower' containing an opening for the LED-strip. |![Top of the case](../media/greentower-makingof-09.jpg){:height="60%" width="60%"}
+This is the top of the 'Green Tower' containing an opening for the LED-strip. |![Top of the case](../media/greentower-makingof-09.jpg){:width="60%"}
 
 ---
 
-![Install the LED-strip](../media/greentower-makingof-10.jpg){:height="60%" width="60%"}|The LED-Strip fits perfectly into the 3D printed top.
+![Install the LED-strip](../media/greentower-makingof-10.jpg){:width="60%"}|The LED-Strip fits perfectly into the 3D printed top.
 
 ---
 
-Use duct tape to keep the LED-strip in place. |![Attach the LEDs](../media/greentower-makingof-11.jpg){:height="60%" width="60%"}
+Use duct tape to keep the LED-strip in place. |![Attach the LEDs](../media/greentower-makingof-11.jpg){:width="60%"}
 
 ---
 
-![Connect the ESP32 and the LEDs](../media/greentower-makingof-13.jpg){:height="60%" width="60%"}|Plug the LED-Strip into the ESP32 and shut the case.
+![Connect the ESP32 and the LEDs](../media/greentower-makingof-13.jpg){:width="60%"}|Plug the LED-Strip into the ESP32 and shut the case.
 
 ---
 
-Finally connected: Top and bottom parts of the tower. |![Prototype finished](../media/greentower-makingof-14.jpg){:height="60%" width="60%"}
+Finally connected: Top and bottom parts of the tower. |![Prototype finished](../media/greentower-makingof-14.jpg){:width="60%"}
 
 ---
 
-![Customize](../media/greentower-makingof-16.jpg){:height="60%" width="60%"}|We customized the 'Green Tower' with the Logo of our company as well as the official logo of the Corona-Warn-App.
+![Customize](../media/greentower-makingof-16.jpg){:width="60%"}|We customized the 'Green Tower' with the Logo of our company as well as the official logo of the Corona-Warn-App.
 
 ---
 
-The COVID-19 App Scanner in action: All lights green: Corona-Warn-App on a device nearby found. | ![Corona-Warn-App found](../media/greentower-makingof-18.jpg){:height="60%" width="60%"}
+The COVID-19 App Scanner in action: All lights green: Corona-Warn-App on a device nearby found. | ![Corona-Warn-App found](../media/greentower-makingof-18.jpg){:width="60%"}
 
 ---
 
-![No Corona-Warn-App found](../media/greentower-makingof-19.jpg){:height="60%" width="60%"}| All lights red: No Corona-Warn-App found. 
+![No Corona-Warn-App found](../media/greentower-makingof-19.jpg){:width="60%"}| All lights red: No Corona-Warn-App found.
