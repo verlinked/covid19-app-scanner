@@ -20,6 +20,20 @@ The first example of a COVID-19 App Scanner device is the
 
 ![The 'Green Tower' by verlinked](examples/green_tower/media/greentower-makingof-18.jpg)
 
+# We want you
+
+The components needed to build a Covid-19 App Scanner are a BLE hardware, such as an ESP32 chip, some LEDs or a display and your creativity. 
+
+We are sure, there are plenty of possibilities to build a custom case made from wood, plastic, recycled materials et cetera. 
+
+**Show us your custom made Covid-19 App Scanner device.** 
+
+Take some pictures of your individual App-Scanner - and maybe some of the making of - 
+and show them by [creating a pull request](https://github.com/verlinked/covid19-app-scanner/pulls) or [opening an issue](https://github.com/verlinked/covid19-app-scanner/issues).
+
+We'll add your custom made Covid-19 App Scanner to our example gallery.   
+ 
+
 # The Project
 
 Visit the GitHub [project page](https://github.com/verlinked/covid19-app-scanner) to learn more.
